@@ -1,5 +1,5 @@
 *{box-sizing:border-box}
-body{margin:0;font-family:system-ui;background:linear-gradient(135deg,#eef7ff,#f7f0ff);color:#16213e}
+body{margin:0;font-family:system-ui;background:linear-gradient(135deg,#f5ecc3,#f7f0ff);color:#16213e}
 main{max-width:900px;margin:auto;padding:3rem 1rem}
 h1{color:#173f7a}
 .grid{display:grid;grid-template-columns:repeat(auto-fit,minmax(230px,1fr));gap:1rem}
